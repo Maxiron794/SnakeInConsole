@@ -1,0 +1,7 @@
+.vs
+SnakeInConsole/x64
+SnakeInConsole/SnakeInConsole.vcxproj
+SnakeInConsole/SnakeInConsole.vcxproj.filters
+SnakeInConsole/SnakeInConsole.vcxproj.user
+x64/Debug/SnakeInConsole.pdb
+SnakeInConsole.sln
